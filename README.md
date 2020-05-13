@@ -1,2 +1,2 @@
 # Color-Ui-
-基于Color-Ui的再次封装
+uni App基于Color-Ui的再次封装
